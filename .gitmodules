@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "LJexm"]
 	path = LJexm
-	url = https://github.com/cran/LJexm
+	url = https://github.com/decard-5673/ljexm
 [submodule "LJmp3converter"]
 	path = LJmp3converter
 	url = https://github.com/decard-5673/ljmp3converter
